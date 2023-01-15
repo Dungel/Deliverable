@@ -4,3 +4,4 @@ plotly==5.11.0
 streamlit==1.16.0
 sqlalchemy==1.4.45
 python-dotenv==0.21.0
+psycopg2==2.9.3
