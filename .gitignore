@@ -149,3 +149,5 @@ dmypy.json
 cython_debug/
 
 review_analysis.json
+
+*secrets.toml
